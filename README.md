@@ -12,6 +12,9 @@ Pulse Buttons is a collection of 6 animated buttons built with pure CSS. Each on
 
 ### 🛠️ Built With
 
+- HTML
+- CSS
+
 ---
 
 ### 🎬 Preview
