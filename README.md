@@ -6,6 +6,24 @@ This project is a collection of animated pulse buttons created with pure CSS. Th
 
 ---
 
+### 📁 Project structure
+
+```
+pulse-buttons/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- HTML
+- CSS
+
+---
+
 ### 💡 What i learned
 
 - practicing CSS animations i learned how to create different effects using `@keyframes`
@@ -14,13 +32,6 @@ This project is a collection of animated pulse buttons created with pure CSS. Th
 - I also understood the difference between `ease-in-out` and `ease-out`, where `ease-in-out` creates a smoother startand end, while `ease-out` starts faster and slows down at the end
 - How `inset: 0` works to stretch an absolutely positioned element equally on all sides, wich is very useful for overlays and animated borders
 - I also practiced using `::before` and `::after` pseudo-elements to create extra visual elements without adding more HTML, specially for animated rings and effects
-
----
-
-### 🛠️ Built With
-
-- HTML
-- CSS
 
 ---
 
